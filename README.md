@@ -9,7 +9,7 @@ Repository URL: https://github.com/jbkinney/26e_programming_bootcamp
 Instructors: 
 - Justin Kinney (<jkinney@cshl.edu>)
 - Ivan Iossifov (<iossifov@cshl.edu>)
-- Hannah Meyer, (<hmeyer@cshl.edu>)
+- Hannah Meyer (<hmeyer@cshl.edu>)
 
 Teaching assistants:
 - Stan Kerstjens, (<kerstje@cshl.edu>)
