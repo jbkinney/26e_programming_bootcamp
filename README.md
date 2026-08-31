@@ -1,10 +1,10 @@
-# 2025 Programming Bootcamp
+# 2026 Programming Bootcamp
 
-Welcome to the 2025 Programming Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
+Welcome to the 2026 Programming Bootcamp of the School for Biological Sciences at Cold Spring Harbor Laboratory! This Github repository contains the Jupyter notebooks, shell scripts, and datasets that we will work through in this bootcamp. 
 
 ## Summary
 
-Repository URL: https://github.com/jbkinney/25e_programming_bootcamp
+Repository URL: https://github.com/jbkinney/26e_programming_bootcamp
 
 Instructors: 
 - Justin Kinney (<jkinney@cshl.edu>)
@@ -12,12 +12,13 @@ Instructors:
 - Hannah Meyer, (<hmeyer@cshl.edu>)
 
 Teaching assistants:
-- Alan Murphy, (<amurphy@cshl.edu>)
 - Stan Kerstjens, (<kerstje@cshl.edu>)
+- Leo Liu (<zhliu@cshl.edu>)
+- Swappi Mittal (<smittal@cshl.edu>)
 
-## Installing Python 3.13 
+## Installing Python 3.14 
 
-Students are asked to install the Anaconda distribution of Python 3.13, on their own computers. This is available at https://www.anaconda.com/download. You may have to register first. 
+Students are asked to install the Anaconda distribution of Python 3.14, on their own computers. This is available at https://www.anaconda.com/download. You may have to register first. 
 
 ## Windows laptops
 
@@ -36,7 +37,7 @@ where ``[user]`` is your CSHL username (e.g. mine is ``jkinney``). Then enter yo
 To download elzar_exercise.tar.gz to Elzar, execute:
 
 ```
-wget --no-check-certificate "https://github.com/jbkinney/25e_programming_bootcamp/raw/main/elzar_exercise.tar.gz"
+wget --no-check-certificate "https://github.com/jbkinney/26e_programming_bootcamp/raw/main/elzar_exercise.tar.gz"
 ```
 
 Then to unpack, execute:
